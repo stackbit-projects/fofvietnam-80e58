@@ -14,7 +14,7 @@ sections:
       - label: Xem Sản Phẩm
         url: /features
         style: secondary
-    image: images/8a4e7e38dbc202c653a3a0af38732eec.jpg
+    image: images/honey-pot.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
