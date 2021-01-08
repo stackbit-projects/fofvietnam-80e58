@@ -8,7 +8,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions:
-      - label: Try Free
+      - label: Liên Hệ
         url: /pricing
         style: primary
       - label: Tìm Hiều Thêm
