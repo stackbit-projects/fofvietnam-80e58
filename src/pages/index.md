@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Chào Mừng bạn đến với FOF
+    title: Chào Mừng bạn đến với Công Ty TNHH Hoa Yêu Thương (FOF Việt Nam)
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
