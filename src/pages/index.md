@@ -11,7 +11,7 @@ sections:
       - label: Liên Hệ
         url: /pricing
         style: primary
-      - label: Tìm Hiều Thêm
+      - label: Xem Sản Phẩm
         url: /features
         style: secondary
     image: images/classic/hero.png
